@@ -1,0 +1,17 @@
+# Temporary files
+tmp/
+tmp/*
+
+# Pretrained weights
+pretrained_weights/
+pretrained_weights/*
+
+# Common additional exclusions
+*.tmp
+*.log
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+
